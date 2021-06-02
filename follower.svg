@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/BismuthLe'>
+            <span class='name'>Don Krystoball</span><span class='screen-name'>@BismuthLe</span>
+        </a>
+    </h2>
+
+    <p>
+        chineur de biographie, rôde dans Trifouillis-Le-Baveux
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ilabatziarte'>
             <span class='name'>MGe | Internet</span><span class='screen-name'>@ilabatziarte</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Pain.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Photheo67'>
-            <span class='name'>Photheo 25</span><span class='screen-name'>@Photheo67</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
