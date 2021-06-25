@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/SadEtienne'>
+            <span class='name'>Etienne Sad</span><span class='screen-name'>@SadEtienne</span>
+        </a>
+    </h2>
+
+    <p>
+        Moi, en pire
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Klaroune'>
             <span class='name'>l'entour loupe</span><span class='screen-name'>@Klaroune</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Looking around
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Skwalala74'>
-            <span class='name'>Skwalala</span><span class='screen-name'>@Skwalala74</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
