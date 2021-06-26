@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ZorykeReplay'>
+            <span class='name'>Louis</span><span class='screen-name'>@ZorykeReplay</span>
+        </a>
+    </h2>
+
+    <p>
+        @girondins #ub87
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/SadEtienne'>
             <span class='name'>Etienne Sad</span><span class='screen-name'>@SadEtienne</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         pas vu pas prise
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/HbtMarc'>
-            <span class='name'>Hbt Marc</span><span class='screen-name'>@HbtMarc</span>
-        </a>
-    </h2>
-
-    <p>
-        Looking around
     </p>
 </li>
 
