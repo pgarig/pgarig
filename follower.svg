@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/CobalthKass'>
+            <span class='name'>Kass Benoît</span><span class='screen-name'>@CobalthKass</span>
+        </a>
+    </h2>
+
+    <p>
+        Rat Musqué, (Ondatra zibethicus).
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/christivan77'>
             <span class='name'>Vanessa</span><span class='screen-name'>@christivan77</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         @girondins #ub87
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SadEtienne'>
-            <span class='name'>Etienne Sad</span><span class='screen-name'>@SadEtienne</span>
-        </a>
-    </h2>
-
-    <p>
-        Moi, en pire
     </p>
 </li>
 
