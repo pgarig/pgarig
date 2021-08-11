@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://twitter.com/rigpga">Rig</a>! <img align="left" alt="French" title="French" width="37px" src="https://raw.githubusercontent.com/pgarig/pgarig/master/.github/images/fr_flag.png" style="float:right" />
 
-I started programming in 2006... at my 10th birthday, a super geeky baby! ??<br/>
+I started programming in 2006... at my 10th birthday, a super geeky baby! 👶<br/>
 Today, as passionate as ever, I am still learning. For some time now, it is artificial intelligence that has my full attention. I use it to develop a voice assistant combined with my home automation.<br/><br/>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rigpga?color=%2300acee&label=FOLLOW%20ME%20%28FR%29&style=for-the-badge"><br/>
 
@@ -23,7 +23,7 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 
 ---
 
-### In my ears ??
+### In my ears 🎧
 [![Spotify](https://spotify-rigpga-pgarig.vercel.app/api/spotify)](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
 
 ---
