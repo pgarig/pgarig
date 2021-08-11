@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://twitter.com/rigpga">Rig</a>! <img align="left" alt="French" title="French" width="37px" src="https://raw.githubusercontent.com/pgarig/pgarig/master/.github/images/fr_flag.png" style="float:right" />
+### Hi there, I'm <a href="https://twitter.com/rigpga">Rig</a>! <img align="left" alt="French" title="French" width="32px" src="https://raw.githubusercontent.com/pgarig/pgarig/master/.github/images/fr_flag.png" style="float:right" />
 
 I started programming in 2006... at my 10th birthday, a super geeky baby! 👶<br/>
 Today, as passionate as ever, I am still learning. For some time now, it is artificial intelligence that has my full attention. I use it to develop a voice assistant combined with my home automation.<br/><br/>
