@@ -24,9 +24,9 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 ---
 
 ### In my ears 🎧
-[![Spotify](https://spotify-rigpga-pgarig.vercel.app/api/spotify)](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)
+[![Spotify](https://spotify-rigpga-pgarig.vercel.app/api/spotify)](https://open.spotify.com/user/bpubqbliim0yrmc9umi3o530m)<!--- 
 
 ---
 
 ### Welcome to the latest followers!
-<a href="https://twitter.com/rigpga" target="_blank"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/follower.svg"></a>
+<a href="https://twitter.com/rigpga" target="_blank"><img alt="followers" src="https://raw.githubusercontent.com/ValentinGoudet/ValentinGoudet/master/follower.svg"></a>-->
