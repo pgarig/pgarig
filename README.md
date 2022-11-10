@@ -20,7 +20,7 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr style="border: none;"><td valign="top" width="33%" style="border: none;">
 
 
 
@@ -40,7 +40,7 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
@@ -57,7 +57,7 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
