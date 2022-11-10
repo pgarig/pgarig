@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 ### Hi there, I'm <a href="https://twitter.com/rigpga">Rig</a>! <img align="left" alt="French" title="French" width="32px" src="https://raw.githubusercontent.com/pgarig/pgarig/master/.github/images/fr_flag.png" style="float:right" />
 
 I started programming in 2006... at my 10th birthday, a super geeky baby! 👶<br/>
