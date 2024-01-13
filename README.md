@@ -91,7 +91,3 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pgarig&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=bpubqbliim0yrmc9umi3o530m&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>
