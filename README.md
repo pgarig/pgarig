@@ -84,10 +84,3 @@ Today, as passionate as ever, I am still learning. For some time now, it is arti
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pgarig&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
